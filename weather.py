@@ -6,8 +6,8 @@ import logging
 import signal
 import sys
 
-TOKEN = "1839996615:AAG1nqIrcX_GK4lTF3U8nU0vChOKSa95chk"
-OWM_KEY = "ac1f66003fb6cf38d94e6b9312f580f9"
+TOKEN = "" #input app auth token
+OWM_KEY = "" #input OWM key
 POLLING_TIMEOUT = None
 
 # Lambda functions to parse updates from Telegram
