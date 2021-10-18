@@ -7,7 +7,7 @@ import signal
 import sys
 
 TOKEN = "" #input app auth token
-OWM_KEY = "" #input OWM key
+OWM_KEY = "" #input open weather map  key
 POLLING_TIMEOUT = None
 
 # Lambda functions to parse updates from Telegram
