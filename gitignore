@@ -1,5 +1,5 @@
 
-Lib\
-Scripts\
+Lib/
+Scripts/
 pyvenv.cfg
 .gitattributes
